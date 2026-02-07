@@ -2,7 +2,7 @@ name: Basic CI
 
 on:
   push:
-    branches: [main]
+    branches: [feature-login]
          
 jobs:
   build:
